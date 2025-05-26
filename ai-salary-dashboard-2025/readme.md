@@ -32,11 +32,5 @@ Python · Pandas · Plotly · Seaborn · Power BI / Tableau
 
 ---
 
-## 🔗 View Dashboard
-
-[🔗 Click here to view the live dashboard](https://lnkd.in/episaF7y)
-
----
-
 *Built as a real-world data project: from data cleaning to dashboard design.*
 
